@@ -29,7 +29,7 @@ This repository contains all the **assignments and practice programs** completed
 |-----------------|----------------------------------|
 | 👤 Trainee Name | Shreyash Suresh Chavare          |
 | 🏢 Institute    | Sunbeam Infotech Pvt. Ltd.       |
-| 📍 Location     | Hinjewadi, Pune                  |
+| 📍 Location     | Hingewadi, Pune                  |
 | 🕒 Duration     | From 10/12/2025 to 05/01/2026    |
 | 🧑‍🏫 Trainer     | SunBeam CDAC Faculties            |
 | 📚 Mode         |  Offline                         |

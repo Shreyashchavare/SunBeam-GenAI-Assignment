@@ -37,7 +37,19 @@ This repository contains all the **assignments and practice programs** completed
 ---
 
 ## 📂 Repository Structure
-
+```txt
+IIT-GenAI-94384/
+│ .gitignore
+│ arithmetic.py
+│ calculation.py
+│ Git Push Demo.txt
+│ README.md
+│
+├───Assignment1
+│ Assignment1.py
+│ Assignment1_Q3.py
+│ products.csv
+```
 ---
 
 ## 🗒️ Comments Guide 
